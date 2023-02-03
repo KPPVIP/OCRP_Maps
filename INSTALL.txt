@@ -1,0 +1,4 @@
+For the maps extract the .ytd files onto your desktop then replace them in the resource folder. 
+
+For the Road Names drag and drop the resource into your resources folder then add: 
+start road_names
